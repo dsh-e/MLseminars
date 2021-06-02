@@ -1,1 +1,3 @@
-# MLseminars
+### MLseminars
+
+Assignments for ML class
